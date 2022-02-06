@@ -1,0 +1,26 @@
+# IDEs
+*.iml
+.idea/
+
+# Build
+dist/
+node_modules/
+
+# Lerna
+lerna-debug.log
+
+# LiveBundle
+.livebundle
+
+# MacOS
+.DS_Store
+
+# NYC (code coverage)
+.nyc_output/
+coverage/
+
+# TypeScript
+tsconfig.tsbuildinfo
+
+# Yarn
+yarn-error.log
